@@ -1,11 +1,8 @@
 <h2 align="left">
-  Hi 👋! I'm Gabriel  
-  A backend developer passionate about Java, Spring, and cybersecurity  
-  From Goiás, Brazil 🇧🇷
+  Hi 👋! I'm Gabriel — from Goiás, Brazil 🇧🇷 Passionate about low-level programming and Unix-like systems. I study Java/Spring Boot and build backend projects, with C and Arduino/AVR on the side.
 </h2>
 
 <br>
-
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"  />

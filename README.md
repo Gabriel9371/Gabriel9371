@@ -1,6 +1,6 @@
 
   Hi 👋! I'm Gabriel — from Goiás, Brazil 🇧🇷 Passionate about low-level programming and Unix-like systems. I study Java/Spring Boot and build backend projects, with C and Arduino/AVR on the side.
-</h2>
+
 
 --- 
 
@@ -15,6 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 
 <br>
+
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -26,3 +27,4 @@
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/douglas-gabriel-mendes-de-souza-336500359)](www.linkedin.com/in/douglas-gabriel-mendes-de-souza-336500359)
 [![Gmail Badge](https://img.shields.io/badge/-mendesdouglasgabriel30@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mendesdouglasgabriel30@gmail)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Gabriel9371)

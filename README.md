@@ -21,10 +21,12 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=57A143)
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/douglas-gabriel-mendes-de-souza-336500359)](www.linkedin.com/in/douglas-gabriel-mendes-de-souza-336500359)
 [![Gmail Badge](https://img.shields.io/badge/-mendesdouglasgabriel30@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mendesdouglasgabriel30@gmail)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Gabriel9371)
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=Gabriel0371&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0d3764&style=flat" align="right" />
